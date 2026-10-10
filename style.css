@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', sans-serif;
+  --color-brand-50: #eff6ff;
+  --color-brand-100: #dbeafe;
+  --color-brand-500: #3b82f6;
+  --color-brand-600: #2563eb;
+}
+
+body {
+    /* Background gradient matching the overall presentation vibe */
+    background: linear-gradient(135deg, #e6f0ff 0%, #c4dbfc 100%);
+    min-height: 100vh;
+}
+.sphere-left {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    /* 3D sphere gradient with highlight */
+    background: radial-gradient(circle at 35% 35%, rgba(255,255,255,0.9) 0%, #8bb4f6 30%, #3b82f6 70%, #1d4ed8 100%);
+    box-shadow: 0 30px 60px rgba(37,99,235,0.3);
+    top: 25%;
+    left: -10%;
+    z-index: 0;
+}
+.sphere-right {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, rgba(255,255,255,0.9) 0%, #93c5fd 40%, #2563eb 80%, #1e40af 100%);
+    box-shadow: 0 20px 50px rgba(37,99,235,0.4);
+    bottom: -5%;
+    right: -5%;
+    z-index: 0;
+}
+.app-window {
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(255,255,255,0.4) inset;
+}
