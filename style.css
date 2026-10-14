@@ -1,41 +1,52 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-@theme {
-  --font-sans: 'Inter', sans-serif;
-  --color-brand-50: #eff6ff;
-  --color-brand-100: #dbeafe;
-  --color-brand-500: #3b82f6;
-  --color-brand-600: #2563eb;
-}
+@layer base {
+  :root {
+    --background: 214 100% 97%;
+    --foreground: 220 20% 10%;
+    --card: 0 0% 100%;
+    --card-foreground: 220 20% 10%;
+    --primary: 213 88% 50%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 213 30% 92%;
+    --secondary-foreground: 213 30% 20%;
+    --muted: 213 25% 94%;
+    --muted-foreground: 213 12% 45%;
+    --accent: 213 90% 94%;
+    --accent-foreground: 213 70% 30%;
+    --destructive: 0 72% 46%;
+    --destructive-foreground: 0 0% 100%;
+    --success: 152 62% 30%;
+    --success-foreground: 0 0% 100%;
+    --warning: 30 92% 30%;
+    --warning-foreground: 0 0% 100%;
+    --border: 213 25% 86%;
+    --input: 213 20% 80%;
+    --ring: 213 88% 50%;
+    --radius: 0.75rem;
+  }
 
-body {
-    /* Background gradient matching the overall presentation vibe */
+  * {
+    @apply border-border;
+  }
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+  body {
+    @apply bg-background font-sans text-foreground antialiased;
     background: linear-gradient(135deg, #e6f0ff 0%, #c4dbfc 100%);
+    background-attachment: fixed;
     min-height: 100vh;
-}
-.sphere-left {
-    position: absolute;
-    width: 500px;
-    height: 500px;
-    border-radius: 50%;
-    /* 3D sphere gradient with highlight */
-    background: radial-gradient(circle at 35% 35%, rgba(255,255,255,0.9) 0%, #8bb4f6 30%, #3b82f6 70%, #1d4ed8 100%);
-    box-shadow: 0 30px 60px rgba(37,99,235,0.3);
-    top: 25%;
-    left: -10%;
-    z-index: 0;
-}
-.sphere-right {
-    position: absolute;
-    width: 400px;
-    height: 400px;
-    border-radius: 50%;
-    background: radial-gradient(circle at 30% 30%, rgba(255,255,255,0.9) 0%, #93c5fd 40%, #2563eb 80%, #1e40af 100%);
-    box-shadow: 0 20px 50px rgba(37,99,235,0.4);
-    bottom: -5%;
-    right: -5%;
-    z-index: 0;
-}
-.app-window {
-    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(255,255,255,0.4) inset;
+  }
+  :focus-visible {
+    @apply outline-none ring-2 ring-ring ring-offset-2 ring-offset-background;
+  }
 }
