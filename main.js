@@ -1,11 +1,2 @@
-import '@fontsource-variable/inter'
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import App from './App'
-import './index.css'
-
-createRoot(document.getElementById('root')!).render(
-  <StrictMode>
-    <App />
-  </StrictMode>,
-)
+// Root main.js entry point delegating to src/main.tsx
+import './src/main.tsx'

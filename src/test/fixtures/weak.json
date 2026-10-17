@@ -1,0 +1,658 @@
+{
+  "keyword": "best running shoes",
+  "draft_title": "Shoes",
+  "draft_meta_description": "All about shoes",
+  "score": 12.3,
+  "components": [
+    {
+      "name": "Topic coverage",
+      "score": 0.0,
+      "max_score": 30.0,
+      "reason": "Covers 0 of 6 subtopics competitors share. Missing: Getting the right fit, How long running shoes last, How to choose cushioning (+3 more)."
+    },
+    {
+      "name": "Keyword & phrase coverage",
+      "score": 0.0,
+      "max_score": 20.0,
+      "reason": "Uses 0 of 25 phrases common across competitors. Missing: aches after runs, feet swell during, flattened midsole creases, foam absorbs impact (+21 more)."
+    },
+    {
+      "name": "Keyword placement",
+      "score": 0.0,
+      "max_score": 15.0,
+      "reason": "Add the exact keyword to: title, first 100 words, meta description. Not scored (not provided): H1."
+    },
+    {
+      "name": "Structure & length",
+      "score": 1.3,
+      "max_score": 15.0,
+      "reason": "125 words vs competitor median 324; 0 headings vs median 6. No headings detected (use #, ##, ### markers or paste a URL)."
+    },
+    {
+      "name": "Search intent match",
+      "score": 1.0,
+      "max_score": 10.0,
+      "reason": "SERP leans informational (cues: best, guide, explained (+2 more)); draft reads transactional."
+    },
+    {
+      "name": "Readability",
+      "score": 10.0,
+      "max_score": 10.0,
+      "reason": "Flesch reading ease 77 vs target ~70: on target."
+    }
+  ],
+  "topics": [
+    {
+      "cluster_id": 0,
+      "label": "Getting the right fit",
+      "label_source": "heading",
+      "page_count": 5,
+      "page_share": 1.0,
+      "coverage": 0.0,
+      "is_gap": true,
+      "severity": "high",
+      "draft_similarity": 0.1,
+      "reference_similarity": 0.966,
+      "example_headings": ["Getting the right fit"],
+      "top_terms": ["good", "feature", "spec", "sheet"],
+      "evidence_chunk_ids": [
+        "https://runnerlab.test/#4-2",
+        "https://racereport.test/#3-4",
+        "https://milesmag.test/#2-2"
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "label": "How long running shoes last",
+      "label_source": "heading",
+      "page_count": 5,
+      "page_share": 1.0,
+      "coverage": 0.0,
+      "is_gap": true,
+      "severity": "high",
+      "draft_similarity": 0.073,
+      "reference_similarity": 0.981,
+      "example_headings": ["How long running shoes last"],
+      "top_terms": ["foam", "wear", "pair", "between"],
+      "evidence_chunk_ids": [
+        "https://trailtalk.test/#6-4",
+        "https://runnerlab.test/#4-6",
+        "https://racereport.test/#3-5"
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "label": "How to choose cushioning",
+      "label_source": "heading",
+      "page_count": 5,
+      "page_share": 1.0,
+      "coverage": 0.0,
+      "is_gap": true,
+      "severity": "high",
+      "draft_similarity": 0.0,
+      "reference_similarity": 0.951,
+      "example_headings": ["How to choose cushioning"],
+      "top_terms": ["runner", "foam", "firmer", "cushioning"],
+      "evidence_chunk_ids": [
+        "https://dailyrun.test/#1-2",
+        "https://milesmag.test/#2-1",
+        "https://racereport.test/#3-2"
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "label": "Price and value",
+      "label_source": "heading",
+      "page_count": 3,
+      "page_share": 0.6,
+      "coverage": 0.0,
+      "is_gap": true,
+      "severity": "high",
+      "draft_similarity": 0.124,
+      "reference_similarity": 0.962,
+      "example_headings": ["Price and value"],
+      "top_terms": ["cost", "trainer", "everyday", "need"],
+      "evidence_chunk_ids": [
+        "https://racereport.test/#3-3",
+        "https://runnerlab.test/#4-5",
+        "https://milesmag.test/#2-4"
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "label": "Pronation and stability",
+      "label_source": "heading",
+      "page_count": 3,
+      "page_share": 0.6,
+      "coverage": 0.0,
+      "is_gap": true,
+      "severity": "high",
+      "draft_similarity": 0.132,
+      "reference_similarity": 0.963,
+      "example_headings": ["Pronation and stability"],
+      "top_terms": ["roll", "inward", "pronation", "describe"],
+      "evidence_chunk_ids": [
+        "https://dailyrun.test/#1-1",
+        "https://milesmag.test/#2-3",
+        "https://runnerlab.test/#4-4"
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "label": "Road versus trail shoes",
+      "label_source": "heading",
+      "page_count": 3,
+      "page_share": 0.6,
+      "coverage": 0.0,
+      "is_gap": true,
+      "severity": "high",
+      "draft_similarity": 0.132,
+      "reference_similarity": 0.946,
+      "example_headings": ["Road versus trail shoes"],
+      "top_terms": ["road", "outsole", "upper", "trail"],
+      "evidence_chunk_ids": [
+        "https://dailyrun.test/#1-4",
+        "https://trailtalk.test/#6-2",
+        "https://runnerlab.test/#4-3"
+      ]
+    }
+  ],
+  "keyphrases": [
+    {
+      "phrase": "aches after runs",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "actually run",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "choose cushioning",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "feel overwhelming",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "feet swell during",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "first thing",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "flattened midsole creases",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "foam absorbs impact",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "foam recover",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "foam returns energy",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "guide walks through",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "heel locked without",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "include flattened midsole",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "locked without slipping",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "long easy runs",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "long running shoes",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "midsole foam absorbs",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "new aches after",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "returns energy faster",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "right running shoes",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "running shoes last",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "soft midsole foam",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "treadmill before buying",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "uneven outsole wear",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "wear include flattened",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    }
+  ],
+  "placement": [
+    {
+      "element": "title",
+      "available": true,
+      "status": "missing"
+    },
+    {
+      "element": "h1",
+      "available": false,
+      "status": "not_provided"
+    },
+    {
+      "element": "first_100_words",
+      "available": true,
+      "status": "missing"
+    },
+    {
+      "element": "meta_description",
+      "available": true,
+      "status": "missing"
+    }
+  ],
+  "structure": {
+    "draft_words": 125,
+    "median_competitor_words": 324,
+    "draft_headings": 0,
+    "median_competitor_headings": 6,
+    "draft_readability": 76.6,
+    "median_competitor_readability": 72.1
+  },
+  "serp_intent": {
+    "primary": "informational",
+    "scores": {
+      "informational": 0.6,
+      "commercial": 0.4,
+      "transactional": 0.0,
+      "navigational": 0.0
+    },
+    "confidence": 0.6,
+    "cues": ["best", "guide", "explained", "how", "how to"]
+  },
+  "draft_intent": {
+    "primary": "transactional",
+    "scores": {
+      "informational": 0.25,
+      "commercial": 0.0,
+      "transactional": 0.75,
+      "navigational": 0.0
+    },
+    "confidence": 0.75,
+    "cues": ["what", "sale", "buy", "shop"]
+  },
+  "intent_match": 0.1,
+  "competitors": [
+    {
+      "rank": 1,
+      "url": "https://dailyrun.test/",
+      "title": "Running Shoes Explained",
+      "word_count": 324,
+      "headings": 6
+    },
+    {
+      "rank": 2,
+      "url": "https://milesmag.test/",
+      "title": "Running Shoe Buyer's Guide",
+      "word_count": 320,
+      "headings": 6
+    },
+    {
+      "rank": 3,
+      "url": "https://racereport.test/",
+      "title": "Choosing Running Shoes for Race Day",
+      "word_count": 317,
+      "headings": 6
+    },
+    {
+      "rank": 4,
+      "url": "https://runnerlab.test/",
+      "title": "Best Running Shoes 2026: Expert Guide",
+      "word_count": 374,
+      "headings": 7
+    },
+    {
+      "rank": 6,
+      "url": "https://trailtalk.test/",
+      "title": "How to Pick Running Shoes",
+      "word_count": 324,
+      "headings": 6
+    }
+  ],
+  "embedder": "hashing",
+  "n_clusters": 6,
+  "sources": [
+    {
+      "n": 1,
+      "url": "https://racereport.test/",
+      "title": "Choosing Running Shoes for Race Day",
+      "rank": 3
+    },
+    {
+      "n": 2,
+      "url": "https://runnerlab.test/",
+      "title": "Best Running Shoes 2026: Expert Guide",
+      "rank": 4
+    },
+    {
+      "n": 3,
+      "url": "https://dailyrun.test/",
+      "title": "Running Shoes Explained",
+      "rank": 1
+    },
+    {
+      "n": 4,
+      "url": "https://trailtalk.test/",
+      "title": "How to Pick Running Shoes",
+      "rank": 6
+    },
+    {
+      "n": 5,
+      "url": "https://milesmag.test/",
+      "title": "Running Shoe Buyer's Guide",
+      "rank": 2
+    }
+  ],
+  "recommendations": [
+    {
+      "cluster_id": 0,
+      "label": "Getting the right fit",
+      "severity": "high",
+      "heading_suggestion": "Section for topic 0",
+      "recommendation": "Add a section covering this topic as competitors do [1]. Explain the key points clearly and give practical examples.",
+      "citations": [1],
+      "evidence": [
+        {
+          "source_n": 1,
+          "chunk_id": "https://racereport.test/#3-4",
+          "heading": "Getting the right fit",
+          "excerpt": "A good fit matters more than any feature on the spec sheet. Leave a thumb's width of space in front of your longest toe, keep the heel locked without slipping, and make sure the midfoot feels snug but never tight. Feet swell during the day and on long runs, so shop for trainers..."
+        },
+        {
+          "source_n": 2,
+          "chunk_id": "https://runnerlab.test/#4-2",
+          "heading": "Getting the right fit",
+          "excerpt": "A good fit matters more than any feature on the spec sheet. Leave a thumb's width of space in front of your longest toe, keep the heel locked without slipping, and make sure the midfoot feels snug but never tight. Feet swell during the day and on long runs, so shop for trainers..."
+        },
+        {
+          "source_n": 3,
+          "chunk_id": "https://dailyrun.test/#1-3",
+          "heading": "Getting the right fit",
+          "excerpt": "A good fit matters more than any feature on the spec sheet. Leave a thumb's width of space in front of your longest toe, save the heel locked without slipping, and make sure the midfoot seems snug but never tight. Feet swell during the day and on long runs, so shop for shoes in..."
+        }
+      ],
+      "generated_by": "llm",
+      "model_cited": true
+    },
+    {
+      "cluster_id": 1,
+      "label": "How long running shoes last",
+      "severity": "high",
+      "heading_suggestion": "Section for topic 1",
+      "recommendation": "Add a section covering this topic as competitors do [1]. Explain the key points clearly and give practical examples.",
+      "citations": [1],
+      "evidence": [
+        {
+          "source_n": 1,
+          "chunk_id": "https://racereport.test/#3-5",
+          "heading": "How long running shoes last",
+          "excerpt": "Most running trainers last between 300 and 500 miles depending on your weight, running surface and the foam used. Signs of wear include flattened midsole creases, uneven outsole wear and new aches after runs. Rotating two pairs lets the foam recover between sessions and can..."
+        },
+        {
+          "source_n": 2,
+          "chunk_id": "https://runnerlab.test/#4-6",
+          "heading": "How long running shoes last",
+          "excerpt": "Most running trainers last between 300 and 500 miles depending on your weight, running surface and the foam used. Signs of wear include flattened midsole creases, uneven outsole wear and new aches after runs. Rotating two pairs lets the foam recover between sessions and can..."
+        },
+        {
+          "source_n": 4,
+          "chunk_id": "https://trailtalk.test/#6-4",
+          "heading": "How long running shoes last",
+          "excerpt": "Most running shoes last between 300 and 500 miles depending on your weight, running surface and the foam used. Signs of wear include flattened midsole creases, uneven outsole wear and new aches after runs. Rotating two pairs lets the foam recover between sessions and can extend..."
+        }
+      ],
+      "generated_by": "llm",
+      "model_cited": true
+    },
+    {
+      "cluster_id": 2,
+      "label": "How to choose cushioning",
+      "severity": "high",
+      "heading_suggestion": "Section for topic 2",
+      "recommendation": "Add a section covering this topic as competitors do [3]. Explain the key points clearly and give practical examples.",
+      "citations": [3],
+      "evidence": [
+        {
+          "source_n": 3,
+          "chunk_id": "https://dailyrun.test/#1-2",
+          "heading": "How to choose cushioning",
+          "excerpt": "Cushioning is the first thing most runners notice. Soft midsole foam absorbs impact on long easy runs, while firmer foam returns energy faster and seems more responsive at tempo pace. Heavier runners usually prefer more stack height, and runners training for races often pick a..."
+        },
+        {
+          "source_n": 5,
+          "chunk_id": "https://milesmag.test/#2-1",
+          "heading": "How to choose cushioning",
+          "excerpt": "Cushioning is the first thing most runners notice. Soft midsole foam absorbs impact on long easy runs, while firmer foam returns energy faster and seems more responsive at tempo pace. Heavier runners usually prefer more stack height, and runners training for races often pick a..."
+        },
+        {
+          "source_n": 1,
+          "chunk_id": "https://racereport.test/#3-2",
+          "heading": "How to choose cushioning",
+          "excerpt": "Cushioning is the first thing most runners notice. Soft midsole foam absorbs impact on long easy runs, while stiffer foam returns energy faster and feels more responsive at tempo pace. Heavier runners usually prefer more stack height, and runners training for races often pick a..."
+        }
+      ],
+      "generated_by": "llm",
+      "model_cited": true
+    },
+    {
+      "cluster_id": 3,
+      "label": "Price and value",
+      "severity": "high",
+      "heading_suggestion": "Section for topic 3",
+      "recommendation": "Add a section covering this topic as competitors do [1]. Explain the key points clearly and give practical examples.",
+      "citations": [1],
+      "evidence": [
+        {
+          "source_n": 1,
+          "chunk_id": "https://racereport.test/#3-3",
+          "heading": "Price and value",
+          "excerpt": "You do not need the most expensive shoe to run well. Good everyday trainers cost between 100 and 160 dollars, and last year's models are often discounted by thirty percent. Carbon plated racing trainers cost more and wear out faster, so keep them for race day rather than..."
+        },
+        {
+          "source_n": 2,
+          "chunk_id": "https://runnerlab.test/#4-5",
+          "heading": "Price and value",
+          "excerpt": "You do not need the most expensive shoe to run well. Good everyday trainers cost between 100 and 160 dollars, and last year's models are often discounted by thirty percent. Carbon plated racing trainers cost more and wear out faster, so keep them for race day rather than..."
+        },
+        {
+          "source_n": 5,
+          "chunk_id": "https://milesmag.test/#2-4",
+          "heading": "Price and value",
+          "excerpt": "You do not need the most expensive shoe to run well. Good daily trainers cost from 100 and 160 dollars, and last year's models are often discounted by thirty percent. Carbon plated racing shoes cost more and wear out faster, so save them for race day rather than daily mileage."
+        }
+      ],
+      "generated_by": "llm",
+      "model_cited": true
+    },
+    {
+      "cluster_id": 4,
+      "label": "Pronation and stability",
+      "severity": "high",
+      "heading_suggestion": "Section for topic 4",
+      "recommendation": "Add a section covering this topic as competitors do [3]. Explain the key points clearly and give practical examples.",
+      "citations": [3],
+      "evidence": [
+        {
+          "source_n": 3,
+          "chunk_id": "https://dailyrun.test/#1-1",
+          "heading": "Pronation and stability",
+          "excerpt": "Pronation describes how your foot rolls inward when it lands. Most runners pronate neutrally, and many modern neutral shoes work well for them. Stability shoes use guide rails or firmer medial foam to restrict excess inward roll. Get a gait analysis at a running store if you..."
+        },
+        {
+          "source_n": 5,
+          "chunk_id": "https://milesmag.test/#2-3",
+          "heading": "Pronation and stability",
+          "excerpt": "Pronation describes how your foot rolls inward when it lands. Most runners pronate neutrally, and many modern neutral shoes work well for them. Stability shoes use guide rails or firmer medial foam to restrict excess inward roll. Get a gait analysis at a running store if you..."
+        },
+        {
+          "source_n": 2,
+          "chunk_id": "https://runnerlab.test/#4-4",
+          "heading": "Pronation and stability",
+          "excerpt": "Pronation describes how your foot rolls inward when it lands. Most runners pronate neutrally, and many modern neutral trainers work well for them. Stability trainers use guide rails or stiffer medial foam to limit excess inward roll. Get a gait analysis at a running store if you..."
+        }
+      ],
+      "generated_by": "llm",
+      "model_cited": true
+    },
+    {
+      "cluster_id": 5,
+      "label": "Road versus trail shoes",
+      "severity": "high",
+      "heading_suggestion": "Section for topic 5",
+      "recommendation": "Add a section covering this topic as competitors do [3]. Explain the key points clearly and give practical examples.",
+      "citations": [3],
+      "evidence": [
+        {
+          "source_n": 3,
+          "chunk_id": "https://dailyrun.test/#1-4",
+          "heading": "Road versus trail shoes",
+          "excerpt": "Road shoes are built for pavement with smooth outsoles and light uppers. Trail shoes add aggressive lugs for grip on mud and rock, plus rock plates and tougher uppers to protect your feet. If you run mostly on gravel paths or park trails, a road shoe with a slightly grippier..."
+        },
+        {
+          "source_n": 4,
+          "chunk_id": "https://trailtalk.test/#6-2",
+          "heading": "Road versus trail shoes",
+          "excerpt": "Road shoes are built for pavement with smooth outsoles and light uppers. Trail shoes add aggressive lugs for grip on mud and rock, plus rock plates and tougher uppers to shield your feet. If you run mostly on gravel paths or park trails, a road shoe with a slightly grippier..."
+        },
+        {
+          "source_n": 2,
+          "chunk_id": "https://runnerlab.test/#4-3",
+          "heading": "Road versus trail shoes",
+          "excerpt": "Road trainers are built for pavement with smooth outsoles and light uppers. Trail trainers add aggressive lugs for grip on mud and rock, plus rock plates and tougher uppers to protect your feet. If you run mostly on gravel paths or park trails, a road shoe with a slightly..."
+        }
+      ],
+      "generated_by": "llm",
+      "model_cited": true
+    }
+  ],
+  "suggestions": {
+    "title": "Best Running Shoes: A Practical Guide",
+    "meta_description": "Learn how to choose the best running shoes: cushioning, fit, price and lifespan explained simply.",
+    "outline": [
+      {
+        "level": 2,
+        "heading": "How to choose best running shoes",
+        "notes": "intro"
+      },
+      {
+        "level": 2,
+        "heading": "Cushioning",
+        "notes": ""
+      },
+      {
+        "level": 2,
+        "heading": "Fit",
+        "notes": ""
+      },
+      {
+        "level": 3,
+        "heading": "Road vs trail",
+        "notes": ""
+      },
+      {
+        "level": 2,
+        "heading": "Price and value",
+        "notes": ""
+      },
+      {
+        "level": 2,
+        "heading": "How long they last",
+        "notes": ""
+      }
+    ],
+    "title_has_keyword": true,
+    "meta_has_keyword": true
+  },
+  "llm_status": "ok",
+  "llm_message": ""
+}

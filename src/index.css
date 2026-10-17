@@ -1,0 +1,113 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 214 100% 97%;
+    --foreground: 220 20% 10%;
+    --card: 0 0% 100%;
+    --card-foreground: 220 20% 10%;
+    --primary: 213 88% 50%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 213 30% 92%;
+    --secondary-foreground: 213 30% 20%;
+    --muted: 213 25% 94%;
+    --muted-foreground: 213 12% 45%;
+    --accent: 213 90% 94%;
+    --accent-foreground: 213 70% 30%;
+    --destructive: 0 72% 46%;
+    --destructive-foreground: 0 0% 100%;
+    --success: 152 62% 30%;
+    --success-foreground: 0 0% 100%;
+    --warning: 30 92% 30%;
+    --warning-foreground: 0 0% 100%;
+    --border: 213 25% 86%;
+    --input: 213 20% 80%;
+    --ring: 213 88% 50%;
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    --background: 222 47% 11%;
+    --foreground: 214 100% 97%;
+    --card: 222 47% 14%;
+    --card-foreground: 214 100% 97%;
+    --primary: 213 90% 60%;
+    --primary-foreground: 222 47% 11%;
+    --secondary: 217 33% 18%;
+    --secondary-foreground: 214 100% 95%;
+    --muted: 217 33% 18%;
+    --muted-foreground: 215 20% 65%;
+    --accent: 217 33% 22%;
+    --accent-foreground: 214 100% 95%;
+    --destructive: 0 80% 66%;
+    --destructive-foreground: 222 47% 11%;
+    --success: 152 55% 52%;
+    --success-foreground: 222 47% 11%;
+    --warning: 36 95% 60%;
+    --warning-foreground: 222 47% 11%;
+    --border: 217 33% 22%;
+    --input: 217 33% 26%;
+    --ring: 213 90% 60%;
+  }
+
+  * {
+    @apply border-border;
+  }
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+  body {
+    @apply bg-background font-sans text-foreground antialiased;
+    background: linear-gradient(135deg, #e6f0ff 0%, #c4dbfc 100%);
+    background-attachment: fixed;
+    min-height: 100vh;
+  }
+  .dark body {
+    background: linear-gradient(135deg, #090d16 0%, #111827 100%);
+    background-attachment: fixed;
+  }
+  :focus-visible {
+    @apply outline-none ring-2 ring-ring ring-offset-2 ring-offset-background;
+  }
+}
+
+@media print {
+  :root,
+  .dark {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 10%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 10%;
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 30%;
+    --border: 0 0% 82%;
+    --primary: 213 88% 45%;
+    --success: 152 62% 26%;
+    --warning: 30 92% 28%;
+    --destructive: 0 72% 40%;
+  }
+  body {
+    background: #fff !important;
+    background-image: none !important;
+  }
+  .container {
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
+  section,
+  tr {
+    break-inside: avoid;
+  }
+  .shadow-card,
+  .shadow-sm {
+    box-shadow: none !important;
+  }
+}

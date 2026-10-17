@@ -1,0 +1,446 @@
+{
+  "keyword": "best running shoes",
+  "draft_title": "Best Running Shoes: Buyer's Guide",
+  "draft_meta_description": "Pick running shoes.",
+  "score": 76.9,
+  "components": [
+    {
+      "name": "Topic coverage",
+      "score": 22.4,
+      "max_score": 30.0,
+      "reason": "Covers 6 of 6 subtopics competitors share."
+    },
+    {
+      "name": "Keyword & phrase coverage",
+      "score": 8.0,
+      "max_score": 20.0,
+      "reason": "Uses 10 of 25 phrases common across competitors. Missing: foam returns energy, guide walks through, heel locked without, include flattened midsole (+11 more)."
+    },
+    {
+      "name": "Keyword placement",
+      "score": 12.0,
+      "max_score": 15.0,
+      "reason": "Keyword present in title, H1, first 100 words. Add the exact keyword to: meta description."
+    },
+    {
+      "name": "Structure & length",
+      "score": 15.0,
+      "max_score": 15.0,
+      "reason": "301 words vs competitor median 324; 7 headings vs median 6."
+    },
+    {
+      "name": "Search intent match",
+      "score": 9.5,
+      "max_score": 10.0,
+      "reason": "Draft and SERP both lean informational."
+    },
+    {
+      "name": "Readability",
+      "score": 10.0,
+      "max_score": 10.0,
+      "reason": "Flesch reading ease 75 vs target ~70: on target."
+    }
+  ],
+  "topics": [
+    {
+      "cluster_id": 0,
+      "label": "Getting the right fit",
+      "label_source": "heading",
+      "page_count": 5,
+      "page_share": 1.0,
+      "coverage": 0.747,
+      "is_gap": false,
+      "severity": "high",
+      "draft_similarity": 0.774,
+      "reference_similarity": 0.966,
+      "example_headings": ["Getting the right fit"],
+      "top_terms": ["good", "feature", "spec", "sheet"],
+      "evidence_chunk_ids": [
+        "https://runnerlab.test/#4-2",
+        "https://racereport.test/#3-4",
+        "https://milesmag.test/#2-2"
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "label": "How long running shoes last",
+      "label_source": "heading",
+      "page_count": 5,
+      "page_share": 1.0,
+      "coverage": 0.836,
+      "is_gap": false,
+      "severity": "high",
+      "draft_similarity": 0.827,
+      "reference_similarity": 0.981,
+      "example_headings": ["How long running shoes last"],
+      "top_terms": ["foam", "wear", "pair", "between"],
+      "evidence_chunk_ids": [
+        "https://trailtalk.test/#6-4",
+        "https://runnerlab.test/#4-6",
+        "https://racereport.test/#3-5"
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "label": "How to choose cushioning",
+      "label_source": "heading",
+      "page_count": 5,
+      "page_share": 1.0,
+      "coverage": 0.6,
+      "is_gap": false,
+      "severity": "high",
+      "draft_similarity": 0.696,
+      "reference_similarity": 0.951,
+      "example_headings": ["How to choose cushioning"],
+      "top_terms": ["runner", "foam", "firmer", "cushioning"],
+      "evidence_chunk_ids": [
+        "https://dailyrun.test/#1-2",
+        "https://milesmag.test/#2-1",
+        "https://racereport.test/#3-2"
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "label": "Price and value",
+      "label_source": "heading",
+      "page_count": 3,
+      "page_share": 0.6,
+      "coverage": 0.753,
+      "is_gap": false,
+      "severity": "high",
+      "draft_similarity": 0.773,
+      "reference_similarity": 0.962,
+      "example_headings": ["Price and value"],
+      "top_terms": ["cost", "trainer", "everyday", "need"],
+      "evidence_chunk_ids": [
+        "https://racereport.test/#3-3",
+        "https://runnerlab.test/#4-5",
+        "https://milesmag.test/#2-4"
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "label": "Pronation and stability",
+      "label_source": "heading",
+      "page_count": 3,
+      "page_share": 0.6,
+      "coverage": 0.711,
+      "is_gap": false,
+      "severity": "high",
+      "draft_similarity": 0.755,
+      "reference_similarity": 0.963,
+      "example_headings": ["Pronation and stability"],
+      "top_terms": ["roll", "inward", "pronation", "describe"],
+      "evidence_chunk_ids": [
+        "https://dailyrun.test/#1-1",
+        "https://milesmag.test/#2-3",
+        "https://runnerlab.test/#4-4"
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "label": "Road versus trail shoes",
+      "label_source": "heading",
+      "page_count": 3,
+      "page_share": 0.6,
+      "coverage": 0.862,
+      "is_gap": false,
+      "severity": "high",
+      "draft_similarity": 0.809,
+      "reference_similarity": 0.946,
+      "example_headings": ["Road versus trail shoes"],
+      "top_terms": ["road", "outsole", "upper", "trail"],
+      "evidence_chunk_ids": [
+        "https://dailyrun.test/#1-4",
+        "https://trailtalk.test/#6-2",
+        "https://runnerlab.test/#4-3"
+      ]
+    }
+  ],
+  "keyphrases": [
+    {
+      "phrase": "actually run",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "choose cushioning",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "feel overwhelming",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "first thing",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "foam returns energy",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "guide walks through",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "heel locked without",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "include flattened midsole",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "locked without slipping",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "long easy runs",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "returns energy faster",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "right running shoes",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "soft midsole foam",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "treadmill before buying",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "wear include flattened",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": false
+    },
+    {
+      "phrase": "aches after runs",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": true
+    },
+    {
+      "phrase": "feet swell during",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": true
+    },
+    {
+      "phrase": "flattened midsole creases",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": true
+    },
+    {
+      "phrase": "foam absorbs impact",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": true
+    },
+    {
+      "phrase": "foam recover",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": true
+    },
+    {
+      "phrase": "long running shoes",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": true
+    },
+    {
+      "phrase": "midsole foam absorbs",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": true
+    },
+    {
+      "phrase": "new aches after",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": true
+    },
+    {
+      "phrase": "running shoes last",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": true
+    },
+    {
+      "phrase": "uneven outsole wear",
+      "pages": 5,
+      "page_share": 1.0,
+      "in_draft": true
+    }
+  ],
+  "placement": [
+    {
+      "element": "title",
+      "available": true,
+      "status": "exact"
+    },
+    {
+      "element": "h1",
+      "available": true,
+      "status": "exact"
+    },
+    {
+      "element": "first_100_words",
+      "available": true,
+      "status": "exact"
+    },
+    {
+      "element": "meta_description",
+      "available": true,
+      "status": "missing"
+    }
+  ],
+  "structure": {
+    "draft_words": 301,
+    "median_competitor_words": 324,
+    "draft_headings": 7,
+    "median_competitor_headings": 6,
+    "draft_readability": 75.4,
+    "median_competitor_readability": 72.1
+  },
+  "serp_intent": {
+    "primary": "informational",
+    "scores": {
+      "informational": 0.6,
+      "commercial": 0.4,
+      "transactional": 0.0,
+      "navigational": 0.0
+    },
+    "confidence": 0.6,
+    "cues": ["best", "guide", "explained", "how", "how to"]
+  },
+  "draft_intent": {
+    "primary": "informational",
+    "scores": {
+      "informational": 0.56,
+      "commercial": 0.32,
+      "transactional": 0.12,
+      "navigational": 0.0
+    },
+    "confidence": 0.56,
+    "cues": ["guide", "best", "how", "price", "how to", "shop"]
+  },
+  "intent_match": 0.952,
+  "competitors": [
+    {
+      "rank": 1,
+      "url": "https://dailyrun.test/",
+      "title": "Running Shoes Explained",
+      "word_count": 324,
+      "headings": 6
+    },
+    {
+      "rank": 2,
+      "url": "https://milesmag.test/",
+      "title": "Running Shoe Buyer's Guide",
+      "word_count": 320,
+      "headings": 6
+    },
+    {
+      "rank": 3,
+      "url": "https://racereport.test/",
+      "title": "Choosing Running Shoes for Race Day",
+      "word_count": 317,
+      "headings": 6
+    },
+    {
+      "rank": 4,
+      "url": "https://runnerlab.test/",
+      "title": "Best Running Shoes 2026: Expert Guide",
+      "word_count": 374,
+      "headings": 7
+    },
+    {
+      "rank": 6,
+      "url": "https://trailtalk.test/",
+      "title": "How to Pick Running Shoes",
+      "word_count": 324,
+      "headings": 6
+    }
+  ],
+  "embedder": "hashing",
+  "n_clusters": 6,
+  "sources": [],
+  "recommendations": [],
+  "suggestions": {
+    "title": "Best Running Shoes: A Practical Guide",
+    "meta_description": "Learn how to choose the best running shoes: cushioning, fit, price and lifespan explained simply.",
+    "outline": [
+      {
+        "level": 2,
+        "heading": "How to choose best running shoes",
+        "notes": "intro"
+      },
+      {
+        "level": 2,
+        "heading": "Cushioning",
+        "notes": ""
+      },
+      {
+        "level": 2,
+        "heading": "Fit",
+        "notes": ""
+      },
+      {
+        "level": 3,
+        "heading": "Road vs trail",
+        "notes": ""
+      },
+      {
+        "level": 2,
+        "heading": "Price and value",
+        "notes": ""
+      },
+      {
+        "level": 2,
+        "heading": "How long they last",
+        "notes": ""
+      }
+    ],
+    "title_has_keyword": true,
+    "meta_has_keyword": true
+  },
+  "llm_status": "ok",
+  "llm_message": ""
+}
